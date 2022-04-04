@@ -1,5 +1,5 @@
 - 👋 Hola soy Abel moreno, encargado del area de automatización
--En este repositorio se encuntran los servicios de: 
+-En este repositorio se encuntran los servicios de-
 
 -1.- Control dep.
 -2.- Medidor de cuellos.
